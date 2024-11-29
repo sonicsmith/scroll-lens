@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  background: #0c0019;
+  color: white;
+}
+
+/* Scroll yellow: #EBC18D */
+/* Scroll white: #FEEEDA */
